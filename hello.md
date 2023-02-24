@@ -39,3 +39,18 @@ Git add
 ![Картинка](https://s1.1zoom.ru/big3/984/Canada_Parks_Lake_Mountains_Forests_Scenery_Rocky_567540_3840x2400.jpg)
 
 [Работа с markdown](https://github.com/linarMinachev/Markdown)
+
+## Работа со списками
+
+1. Один
+2. Два
+    * Три
+    + Четыре
+    * 1
+    * 2
+    * 2
+
+*
+*
++
++
